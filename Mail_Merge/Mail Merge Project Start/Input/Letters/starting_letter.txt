@@ -1,0 +1,10 @@
+Dear {name},
+I am writing to express my interest in the development opportunity that is currently available at your company. I am confident that my skills and qualifications make me a strong candidate for this role.
+I am a graduate of Middle Tennessee State University with a degree in Psychology; however, upon graduation I realized that career path was not for me. Instead, I have determined a career in IT would be a great fit for me.
+I have gained experience in IT systems through various personal projects and self-study. Currently, I am studying to receive my Network+ certification. I am familiar with various operating systems, including Windows and Linux, and am familiar with a variety of hardware components. Further, I have experience working with a few programming languages, including Python, HTML, and CSS. Additionally, I have experience troubleshooting and resolving technical issues through building custom PCs and working on personal projects.
+I am eager to apply my technical skills and enthusiasm to this position. I am a quick learner and am able to adapt to new technologies and systems with ease. I can also communicate technical information clearly to non-technical colleagues and clients, which is an important skill in any IT role.
+I am excited about the opportunity to work with your team and to contribute to the success of your organization. I am confident that my skills and experience make me an excellent fit for this role, and I look forward to discussing the position further in an interview.
+Thank you for considering my application.
+Sincerely, Kelly Cantrell
+
+
